@@ -1,3 +1,5 @@
+# razorback-stores
+
 Goal:
 Use SAS VIYA to analyze Razorback Stores' marketing campaign data, including data partitions, crosstabulation, descriptive statistics, visualization, linear regression models, and correlation matrices.
 
